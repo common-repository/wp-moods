@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-moods\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-12 12:12+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dric\n"
+"Language-Team: Dric <cedric@driczone.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: s\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-moods.php:96
+msgid "Job"
+msgstr "Travail"
+
+#: ../wp-moods.php:97
+msgid "Love"
+msgstr "Amour"
+
+#: ../wp-moods.php:98
+msgid "Health"
+msgstr "Santé"
+
+#: ../wp-moods.php:121
+msgid "Moods timeline"
+msgstr "Evolution du moral"
+
+#: ../wp-moods.php:122
+msgid "Wp-Moods Settings"
+msgstr "Paramètres de WP-Moods"
+
+#: ../wp-moods.php:123
+msgid "Categories management"
+msgstr "Catégories"
+
+#: ../wp-moods.php:162
+msgid "Options saved."
+msgstr ""
+
+#: ../wp-moods.php:167
+msgid "Moods deleted. The mood categories are still in database."
+msgstr "Enregistrements effacés. Les catégories n'ont pas été affectées."
+
+#: ../wp-moods.php:173
+#: ../wp-moods.php:178
+#, php-format
+msgid "WP-Moods Plugin has been uninstalled. You can now desactivate this plugin : <a href=\"%s\">Plugins Page</a>"
+msgstr "Le plugin Wp-Moods a été désinstallé. Vous pouvez maintenant le désactiver : <a href=\"%s\">Page des Extensions</a>"
+
+#: ../wp-moods.php:189
+#: ../wp-moods.php:196
+#: ../wp-moods.php:609
+msgid "Display"
+msgstr "Affichage"
+
+#: ../wp-moods.php:190
+#: ../wp-moods.php:225
+msgid "Emoticons"
+msgstr "Émoticônes"
+
+#: ../wp-moods.php:191
+#: ../wp-moods.php:284
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../wp-moods.php:192
+#: ../wp-moods.php:299
+msgid "Reset/uninstall"
+msgstr "Vider/Désinstaller"
+
+#: ../wp-moods.php:199
+msgid "Date format"
+msgstr "Format des dates"
+
+#: ../wp-moods.php:206
+msgid "For events that are more than a month old only, or if you dont use relative dates."
+msgstr "Pour les évènements qui sont vieux de plus d'un mois, ou si vous n'utilisez pas les dates relatives."
+
+#: ../wp-moods.php:209
+msgid "Use relative dates"
+msgstr "Utiliser les dates relatives"
+
+#: ../wp-moods.php:212
+msgid "Relatives dates exemples : 1 day ago, 22 hours and 3 minutes ago, etc."
+msgstr "Exemple : il y a 1 jour, 22 heures et 3 minutes."
+
+#: ../wp-moods.php:215
+msgid "Display mood in admin panel footer"
+msgstr "Afficher votre moral dans le pied du panneau d'aministration Wordpress."
+
+#: ../wp-moods.php:222
+#: ../wp-moods.php:281
+#: ../wp-moods.php:294
+msgid "Update options &raquo;"
+msgstr ""
+
+#: ../wp-moods.php:228
+msgid "Emoticons set"
+msgstr "Pack d'émoticônes"
+
+#: ../wp-moods.php:271
+msgid "Size"
+msgstr "Taille"
+
+#: ../wp-moods.php:287
+msgid "Use Categories Importance"
+msgstr "Affecter une importance aux catégories"
+
+#: ../wp-moods.php:290
+msgid "Adds the possibility of setting how a category affects your mood"
+msgstr "Ajoute la possibilité d'affecter de spécifier si une catégorie est importante pour votre moral"
+
+#: ../wp-moods.php:302
+msgid "Empty moods data : "
+msgstr "Vider les données de moral"
+
+#: ../wp-moods.php:309
+msgid "Reset data"
+msgstr "Vider les données"
+
+#: ../wp-moods.php:309
+msgid ""
+"Empty moods table ? All your moods logs will be deleted.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Vider la table ? Tous vos enregistrements d'humeur vont être effacés.\\n"
+"\\n"
+"Choisissez [Annuler] pour stopper l'opération ou [OK] pour continuer.\\n"
+
+#: ../wp-moods.php:310
+msgid "Warning : cleaning wpmoods table erase all moods logs, but not the categories."
+msgstr "Attention : vider les enregistrements n'efface pas les catégories."
+
+#: ../wp-moods.php:314
+#: ../wp-moods.php:321
+msgid "Uninstall plugin"
+msgstr "Désinstaller le plugin"
+
+#: ../wp-moods.php:321
+msgid ""
+"Uninstall plugin ? Settings and moods logs will be deleted.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Désinstaller ? Les données et paramétrages vont être effacés.\\n"
+"\\n"
+"Choisissez [Annuler] pour stopper l'opération ou [OK] pour continuer.\\n"
+
+#: ../wp-moods.php:322
+msgid "Warning : This will delete settings and moods table."
+msgstr "Attention : ceci va effacer toute trace du plugin dans votre installation Wordpress."
+
+#: ../wp-moods.php:333
+#, php-format
+msgid "WP-Moods is a plugin by <a href=\"http://www.driczone.net\">Dric</a>. Version <strong>%s</strong>."
+msgstr "WP-Moods est un plugin de <a href=\"http://www.driczone.net\">Dric</a>. Version <strong>%s</strong>."
+
+#: ../wp-moods.php:345
+#: ../wp-moods.php:459
+msgid "Edit Category"
+msgstr ""
+
+#: ../wp-moods.php:354
+#: ../wp-moods.php:428
+#: ../wp-moods.php:438
+#: ../wp-moods.php:485
+msgid "Name"
+msgstr ""
+
+#: ../wp-moods.php:358
+#: ../wp-moods.php:487
+msgid "The name of the category. Should be short."
+msgstr "Le nom de la catégorie. Il doit de préférence être court."
+
+#: ../wp-moods.php:364
+#: ../wp-moods.php:430
+#: ../wp-moods.php:440
+#: ../wp-moods.php:491
+msgid "Default importance"
+msgstr "Importance par défaut"
+
+#: ../wp-moods.php:368
+#: ../wp-moods.php:493
+msgid "Default importance to set to this category."
+msgstr "Importance par défaut à affecter à cette catégorie."
+
+#: ../wp-moods.php:377
+msgid "Update"
+msgstr ""
+
+#: ../wp-moods.php:386
+msgid "Item updated."
+msgstr ""
+
+#: ../wp-moods.php:395
+msgid "Items deleted."
+msgstr ""
+
+#: ../wp-moods.php:402
+msgid "Item added."
+msgstr ""
+
+#: ../wp-moods.php:408
+msgid "WP-Moods Categories"
+msgstr "Catégories de WP-Moods"
+
+#: ../wp-moods.php:417
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../wp-moods.php:418
+msgid "Delete"
+msgstr ""
+
+#: ../wp-moods.php:432
+#: ../wp-moods.php:442
+msgid "Id"
+msgstr ""
+
+#: ../wp-moods.php:481
+#: ../wp-moods.php:498
+msgid "Add New Category"
+msgstr ""
+
+#: ../wp-moods.php:550
+#: ../wp-moods.php:553
+#: ../wp-moods.php:736
+msgid "Mood"
+msgstr "Moral"
+
+#: ../wp-moods.php:551
+msgid "Last updated"
+msgstr "Dernière mise à jour"
+
+#: ../wp-moods.php:604
+msgid "WP-Moods Timeline"
+msgstr "WP-Moods - Évolution du moral"
+
+#: ../wp-moods.php:639
+msgid "Categories Timeline"
+msgstr "Évolution des catégories"
+
+#: ../wp-moods.php:642
+msgid "Show category"
+msgstr "Montrer les catégories"
+
+#: ../wp-moods.php:646
+msgid "Mood Timeline"
+msgstr "Évolution du moral"
+
+#: ../wp-moods.php:660
+#: ../wp-moods.php:916
+msgid "So Bad"
+msgstr "Dépressif"
+
+#: ../wp-moods.php:663
+#: ../wp-moods.php:919
+msgid "Not good"
+msgstr "Pas terrible"
+
+#: ../wp-moods.php:666
+#: ../wp-moods.php:900
+#: ../wp-moods.php:922
+msgid "Average"
+msgstr "Moyenne"
+
+#: ../wp-moods.php:669
+#: ../wp-moods.php:925
+msgid "Pretty good"
+msgstr "Pas mal"
+
+#: ../wp-moods.php:672
+#: ../wp-moods.php:928
+msgid "Top !"
+msgstr "Au top !"
+
+#: ../wp-moods.php:763
+#: ../wp-moods.php:781
+msgid "feeling at"
+msgstr "moral au"
+
+#: ../wp-moods.php:811
+msgid "Importance"
+msgstr "Importance"
+
+#: ../wp-moods.php:857
+msgid "Mood Added. Calculated mood : "
+msgstr "Humeur ajoutée. Moral global : "
+
+#: ../wp-moods.php:880
+msgid "Previous"
+msgstr ""
+
+#: ../wp-moods.php:881
+msgid "Next"
+msgstr ""
+
+#: ../wp-moods.php:882
+msgid "Add Mood"
+msgstr "Ajouter une humeur"
+
+#: ../wp-moods.php:894
+msgid "None"
+msgstr "Aucune"
+
+#: ../wp-moods.php:897
+msgid "Small"
+msgstr "Faible"
+
+#: ../wp-moods.php:903
+msgid "High"
+msgstr "Haute"
+
+#: ../wp-moods.php:906
+msgid "Essential"
+msgstr "Vitale"
+
+#: ../wp-moods.php:952
+msgid "I'm feeling"
+msgstr "Je me sens"
+
+#: ../wp-moods.php:961
+msgid "Ignore this"
+msgstr "Ignorer"
+
+#: ../wp-moods.php:1010
+msgid "weeks"
+msgstr "semaines"
+
+#: ../wp-moods.php:1010
+msgid "week"
+msgstr "semaine"
+
+#: ../wp-moods.php:1011
+#: ../wp-moods.php:1014
+msgid "days"
+msgstr "jours"
+
+#: ../wp-moods.php:1011
+#: ../wp-moods.php:1014
+msgid "day"
+msgstr "jour"
+
+#: ../wp-moods.php:1015
+#: ../wp-moods.php:1018
+msgid "hours"
+msgstr "heures"
+
+#: ../wp-moods.php:1015
+#: ../wp-moods.php:1018
+msgid "hour"
+msgstr "heure"
+
+#: ../wp-moods.php:1019
+#: ../wp-moods.php:1022
+msgid "minutes"
+msgstr "minutes"
+
+#: ../wp-moods.php:1019
+#: ../wp-moods.php:1022
+msgid "minute"
+msgstr "minute"
+
+#: ../wp-moods.php:1025
+msgid "seconds"
+msgstr "secondes"
+
+#: ../wp-moods.php:1025
+msgid "second"
+msgstr "seconde"
+
+#: ../wp-moods.php:1029
+#, php-format
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: ../wp-moods.php:1041
+msgid "Display my mood"
+msgstr "Afficher mon moral"
+
+#: ../wp-moods.php:1047
+msgid "Wp-Moods Widget"
+msgstr "Widget de WP-Moods"
+
+#: ../wp-moods.php:1070
+msgid "My Mood"
+msgstr "Mon moral"
+
+#: ../wp-moods.php:1074
+msgid "Title :"
+msgstr "Titre : "
+

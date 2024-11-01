@@ -1,0 +1,68 @@
+#wpmoods{
+	margin-bottom: 5px;
+}
+#wpmoods ul, #wpmoods li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#wpmoods li{ 
+	width:350px;
+	overflow:hidden; 
+}
+.wpmoods_inside{
+	padding: 10px 15px 5px 10px;
+	min-height: 300px;
+}
+#wpmoods label{
+	display: block;
+}
+#wpmoods_nextBtn{
+	display:block;
+	float:right;
+}
+#wpmoods_prevBtn{
+	display:block;
+	float:left;
+}
+.wpmoods_coeff{
+	float: right;
+}
+.wpmoods_info{
+  color: #AAA;
+	font-size: 80%;
+}
+.wpmoods_form-field{
+	padding: 8px;
+	margin-bottom: 10px;
+}
+.wpmoods_date{
+	color: #AAA;
+	font-size: 80%;
+	margin-left: 3px;
+}
+.wpmoods_img{
+	padding-right: 3px;
+	vertical-align: middle;
+}
+.wpmoods-old{
+	color: #AAA;
+}
+.wpmoods_warning{
+  color: Red;
+}
+#wpmoods_wrap{
+	width: 680px;
+	margin: auto;
+}
+
+#wpmoods_footer {
+
+}
+
+#icon-stats{
+	background-color: transparent;
+	background-image: url(img/icon32.png);
+	background-repeat: no-repeat;
+}
+
